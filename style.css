@@ -1,0 +1,14 @@
+body {font-family: Arial;}
+
+.center{
+	text-align: center;
+	border: 6px solid skyblue;
+}
+
+.container{
+	border: 4px solid black;
+}
+
+.italic{
+	font-style: italic;
+}
